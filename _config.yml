@@ -1,0 +1,23 @@
+name: Ctrl+Alt+Enter
+favicon: null
+layout_spectrum: 0.21520922100171447
+typography_spectrum: 0.19321614946238697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.17911111656576395
+  lightness: 0.5397564901504666
+  saturation: 0.7587336979340762
+  rhythmicContrast: 0.28921311907470226
+purpose: []
