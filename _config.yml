@@ -2,12 +2,13 @@ name: Ctrl+Alt+Enter
 favicon: null
 layout_spectrum: 0.21520922100171447
 typography_spectrum: 0.19321614946238697
+title: "Service Informatique Individualisé de la Côte d'Émeraude"
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-70137033-1
   facebook: null
   twitter: null
 opengraph:
